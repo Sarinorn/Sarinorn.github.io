@@ -1,0 +1,38 @@
+p {
+    color: blueviolet;
+}
+.group1 {
+    background-color: rgb(241, 205, 255);
+    width: 500px;
+    text-align: center;
+    width: 50%;
+    border-radius: 16px;
+}
+.group2 {
+    background-color: rgb(252, 221, 252);
+    text-align: center;
+    width: 50%;
+    border-radius: 16px;
+}
+.group3 {
+    background-color: rgb(171, 225, 250);
+    border-radius: 16px;
+    text-align: center;
+}
+div {
+    border: 2px  solid white;
+}
+h1 {
+    background-color: rgb(188, 241, 219);
+    color: rgb(0, 0, 0);
+    border: 2px greenyellow;
+    text-align: center;
+    padding: 35px;
+    font-size: 50px;
+}
+.container {
+}
+.section {
+    display: flex;
+    flex: 1;
+}
